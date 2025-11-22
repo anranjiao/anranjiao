@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Anran Jiao
 
 <!--
 **anranjiao/anranjiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I'm currently a PhD student in Statistics & Data Science @ Yale University, advised by Prof. Lu Lu.
+- 🔭 I’m interested in scientific machine learning, AI for Science, neural operators, PDE discovery, and foundation models for physical systems.
+- ⚡ Fun fact: Our cat Twelve believes PDE stands for “Perfect Day to Eat.”
+- 📫 Contact: anran.jiao@yale.edu | [Google Scholar](https://scholar.google.com/citations?user=0Yzl49kAAAAJ)
